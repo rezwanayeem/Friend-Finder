@@ -1,14 +1,13 @@
-var express = require("express");
+// Dependencies
 var bodyParser = require("body-parser");
-
-// Tells node that we are creating an "express" server
+var express = require("express");
 var app = express();
 
-// Sets an initial port. We"ll use this later in our listener
+// Sets a port. 
 var PORT = process.env.PORT || 8080;
 
 // BodyParser makes it possible for our server to interpret data sent to it.
-// The code below is pretty standard.
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.text());

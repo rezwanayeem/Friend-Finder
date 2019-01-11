@@ -1,6 +1,6 @@
 var friend = [
     {
-      name: "sonakshi",
+      name: "sona",
       photo: "https://tse3.mm.bing.net/th?id=OIP.O-iRzIrrDseYXPuQPlOyzgHaHU&pid=15.1&P=0&w=158&h=157",
       scores: [1, 5, 3, 4, 5, 1, 2, 3, 4, 5]
     },
