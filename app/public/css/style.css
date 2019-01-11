@@ -1,0 +1,96 @@
+/* #homePage{
+  text-align: center;
+  color: white;
+  font-family: 'Patua One', cursive;
+}
+
+.jumbotron{
+  background-color: #99ccff;
+}
+
+.jumbotron p{
+  font-size: 30px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.btn-primary{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+#surveyHeader{
+  font-weight: bold;
+  font-size: 30px;
+}
+#about{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h3, h4{
+  font-size: 18px;
+}
+
+#friendModal{
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+} */
+
+
+/* #img{
+  max-height: 250px;
+  max-width: 250px;
+} */
+
+/* body {
+  width: 75%;
+ margin: 0px auto; 
+
+ display: flex;
+ min-height: 100vh;
+ flex-direction: column;
+}
+
+header {
+  height: 100px;
+}
+
+header > nav {
+  height: 100%;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+main h1 {
+  font-weight: bold;
+}
+
+ main h2 {
+  font-weight: 300;
+}
+
+#logo-icon {
+ margin-left: 50px;
+ margin-top: 20px;
+}
+
+#logo {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#head-nav-links {
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.mainpanel{
+ margin: 50px;
+}
+
+#mainpanel-content {
+  margin: 50px;
+} */
